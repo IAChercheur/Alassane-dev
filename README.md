@@ -1,6 +1,6 @@
 # 👋 Bonjour ! Je suis Alassane-dev
 
-🎓 Titulaire d’un Master 2 en Informatique Décisionnelle, Vision et Intelligence  
+🎓 Titulaire d’un Master 2 en Informatique Décisionnelle, Vision et Intelligente  
 🏫 Faculté des Sciences Dhar El Mahraz (FSDM)  
 💻 Développeur Web passionné, spécialisé dans les solutions intelligentes et l’intelligence artificielle
 
